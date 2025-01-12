@@ -1,0 +1,9 @@
+like: Update Delete
+{
+  "name": "SAMSUNG",
+  "price": 36000,
+  "category": "Electronics"
+}
+
+http://localhost:3000/api/products/id
+http://localhost:3000/api/products/605c72ef153207001f24e8f
